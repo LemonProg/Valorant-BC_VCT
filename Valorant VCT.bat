@@ -1,8 +1,8 @@
 @echo off
 
-set valPath="(add your valorant path here)\ShooterGame\Content\Movies\Menu\VCT_CHAMPIONS_HomeScreenTakeOver_FullHD.mp4"
+set valPath="(add your valorant path here)\Riot Games\VALORANT\live\ShooterGame\Content\Movies\Menu\VCT_CHAMPIONS_HomeScreenTakeOver_FullHD.mp4"
 set videoPath="%CD%\VCT_CHAMPIONS_HomeScreenTakeOver_FullHD.mp4"
-REM set videoPath="(remove 'REM' and replace this by your custom video path)"
+REM set videoPath="(remove 'REM' and replace this by your custom video path)\VCT_CHAMPIONS_HomeScreenTakeOver_FullHD.mp4"
 
 %USERPROFILE%\Desktop\VALORANT.url
 del %valPath%
