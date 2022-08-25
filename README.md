@@ -28,7 +28,7 @@ The Red arrow is the place where you have to add your valorant path :
 
 The Blue arrow is the place where you can add your custom video path, You have to :
 
-- Rename your file to HomeScreen.mp4
+- Rename your file to "VCT_CHAMPIONS_HomeScreenTakeOver_FullHD.mp4"
 - Place it anywhere on your computer
 - Remove REM to uncomment the line
 - Replace the "()" by your video path
