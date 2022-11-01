@@ -1,5 +1,7 @@
 
 # Valorant-BC (! DONT USE THIS VERSION !)
+USE THIS ONE 👇🏻
+[Valorant-BC](https://github.com/LemonProg/Valorant-BC)
 
 Valorant Background Changer is a script to custom your Valorant Home screen
 
@@ -67,9 +69,3 @@ Now you just have to open it by left clicking on hit, or with this command line
 ```bash
                                 Discord : LEMON シ#7313
 ```
-
-
-## Valorant-BC Basic version !
-This is the basic version 
-
-[Valorant-BC](https://github.com/LemonProg/Valorant-BC_VCT)
