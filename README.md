@@ -1,6 +1,6 @@
 
 # Valorant-BC (! DONT USE THIS VERSION !)
-USE THIS ONE 👇🏻
+USE THIS ONE 👉🏻
 [Valorant-BC](https://github.com/LemonProg/Valorant-BC)
 
 Valorant Background Changer is a script to custom your Valorant Home screen
