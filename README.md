@@ -1,5 +1,5 @@
 
-# Valorant-BC (VCT Update !!!)
+# Valorant-BC (! DONT USE THIS VERSION !)
 
 Valorant Background Changer is a script to custom your Valorant Home screen
 
